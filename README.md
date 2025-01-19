@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Bittu-Patel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Bittu-Patel-ai/Bittu-Patel-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Bittu-Patel  
+- 🌱 I’m currently working as an SDE 1 at **AI Library**  
+- 👀 I’m interested in front-end development, AI-powered solutions, and building innovative tools  
+- 💞️ I’m looking to collaborate on impactful web and AI projects  
+- 📫 Reach me at: bittu@ailibrary.ai  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I created a chatbot for real-time election results during the 2024 MP elections!  
